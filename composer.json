@@ -1,0 +1,15 @@
+{
+    "name": "plumbum/slim-lightcandy",
+    "description": "Handlebars, mustache renderer for Slim framework based on Lightcandy engine",
+    "require": {
+        "zordius/lightncandy": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan A-R",
+            "email": "i@tuxotronic.org"
+        }
+    ],
+    "minimum-stability": "dev"
+}
