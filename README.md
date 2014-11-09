@@ -1,4 +1,7 @@
-slim-lightcandy
-===============
+Slim-LightnCandy
+================
 
-Handlebars, mustache renderer for Slim framework based on Lightcandy engine
+[Handlebars](http://handlebarsjs.com/), [mustache](http://mustache.github.io/) renderer
+for Slim framework based on [Lightcandy](https://github.com/zordius/lightncandy) engine.
+
+

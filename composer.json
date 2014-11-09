@@ -1,8 +1,8 @@
 {
-    "name": "plumbum/slim-lightcandy",
+    "name": "plumbum/slim-lightncandy",
     "type": "library",
     "description": "Handlebars, mustache renderer for Slim framework based on Lightcandy engine",
-    "keywords": ["templating", "extensions", "slimphp", "mustache"],
+    "keywords": ["templating", "extensions", "slimphp", "mustache", "handlebars"],
     "homepage": "http://github.com/plumbum/slim-lightcandy",
     "require": {
         "zordius/lightncandy": "dev-master",
